@@ -13,7 +13,7 @@ using static PInvoke.Contract;
 using PInvoke;
 using System.IO;
 
-namespace PInvoke
+namespace ConvertLegacyFormat
 {
     public partial class NativeStorage
     {
